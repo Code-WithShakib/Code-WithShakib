@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-### 👋 Hello! I'm Md Shakib Hossain, an Android App Developer passionate about crafting innovative and efficient solutions. My skill set includes Java for Android development and PHP/MySQL for robust backend functionality. I thrive on turning ideas into user-friendly and scalable applications. Let's build something amazing together!
+#### I'm Md Shakib Hossain, an Android App Developer passionate about crafting innovative and efficient solutions. My skill set includes Java for Android development and PHP/MySQL for robust backend functionality. I thrive on turning ideas into user-friendly and scalable applications. Let's build something amazing together!
 
 ###### Skills: JAVA / PHP / MYSQL
 
@@ -12,5 +12,5 @@
 - 💬 Ask me about Android App Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Code-WithShakib )  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'> (Md Shakib Hossain)  
+
 
