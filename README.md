@@ -1,4 +1,4 @@
-![I am Android App developer]
+[I am Android App developer]
 ## Hi there 👋
 
 #### I'm Md Shakib Hossain, an Android App Developer passionate about crafting innovative and efficient solutions. My skill set includes Java for Android development and PHP/MySQL for robust backend functionality. I thrive on turning ideas into user-friendly and scalable applications. Let's build something amazing together!
